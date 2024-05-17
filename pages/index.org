@@ -31,11 +31,12 @@ La journée est composée d’exposés invités, de chercheurs ou d’industriel
 
 L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 
-# ** Dates importantes
+** Dates importantes
 
-# - Date limite pour la [[./cfp.html][soumission de présentations ou de posters]] : le plus tôt possible avant le 23 juin
-# - Réponses aux auteurs : au plus tard le 15 juillet 2023
-# - JAIF : jeudi 28 septembre 2023
+
+- Date limite pour la soumission : le plus tôt possible avant le 23 juin
+- Réponses aux auteurs : au plus tard le 5 juillet 2024
+- JAIF : mardi 1er Octobre 2024
 
 ** Soutien institutionnel et sponsors
 
