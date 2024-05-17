@@ -107,6 +107,7 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 + Jean-Max Dutertre  -- MSE, Centre Microélectronique de Provence
 + Karine Heydemann -- Thales DIS France
 + Ronan Lashermes (organisateur local) -- INRIA Rennes
++ Philippe Maurine -- LIRMM
 + Marie-Laure Potet -- VÉRIMAG, Grenoble INP
 
 Contact: [[mailto:jaif@saxifrage.saclay.cea.fr][jaif@saxifrage.saclay.cea.fr]]
