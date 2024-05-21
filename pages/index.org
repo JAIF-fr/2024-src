@@ -10,7 +10,7 @@
 <p class="alert" style="text-align:center; color: #3B31D9; line-height: 2em; font-size: x-large; font-weight: bold;">
 Mardi 1er Octobre 2024
 <br>
-IRISA, Rennes
+Centre Inria de l'Université de Rennes
 <br>
 </p>
 <center>
