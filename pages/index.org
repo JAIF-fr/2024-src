@@ -39,6 +39,9 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 - JAIF : mardi 1er Octobre 2024
 
 ** Soutien institutionnel et sponsors
+:PROPERTIES:
+:CUSTOM_ID: sponsors
+:END:
 
 La journée est organisée avec le soutien de l'IMT, des Mines de Saint-Étienne, de l'IRISA et de l'INRIA
 
