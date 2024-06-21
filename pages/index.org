@@ -34,8 +34,8 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 ** Dates importantes
 
 
-- Date limite pour la soumission : le plus tôt possible avant le 23 juin
-- Réponses aux auteurs : au plus tard le 5 juillet 2024
+- Date limite pour la soumission : +le plus tôt possible avant le 23 juin+  *le 30 juin*
+- Réponses aux auteurs : le 5 juillet 2024
 - JAIF : mardi 1er Octobre 2024
 
 ** Soutien institutionnel et sponsors
