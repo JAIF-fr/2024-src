@@ -40,26 +40,30 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 
 ** Soutien institutionnel et sponsors
 
-# La journée est organisée avec le soutien
-# de [[https://www.mines-stetienne.fr][l'école des Mines de Saint-Étienne]]
-# et de l'[[https://www.imt.fr][Institut Mines-Télécom]],
+La journée est organisée avec le soutien de l'IMT, des Mines de Saint-Étienne, de l'IRISA et de l'INRIA
 
-# #+BEGIN_EXPORT html
-# <center>
-# <p>
-# <a href="https://www.mines-stetienne.fr">
-# <img src="./media/logo-MSE.png" alt="Logo MSE" title="École des Mines de Saint-Étienne" data-align="center" height="100" /></a>
+#+BEGIN_EXPORT html
+<center>
+<p>
+<a href="https://www.mines-stetienne.fr">
+<img src="./media/MSE_IMT.png" alt="Logo MSE IMT" title="École des Mines de Saint-Étienne / Institut Mines Télécom" data-align="center" height="100" /></a>
 
-#      
-# <a href="https://www.imt.fr">
-# <img src="./media/logo-IMT.jpg"
-# alt="Logo IMT"
-# title="Institut Mines-Télécom"
-# data-align="center" height="100" /></a>
-# </p>
-# </center>
+     
+<a href="https://www.inria.fr">
+<img src="./media/Inria.jpg"
+alt="Logo INRIA"
+title="INRIA"
+data-align="center" height="100" /></a>
 
-# #+END_EXPORT
+     
+<a href="https://www.irisa.fr">
+<img src="./media/IRISA.png"
+alt="Logo IRISA"
+title="IRISA"
+data-align="center" height="100" /></a>
+</p>
+</center>
+#+END_EXPORT
 
 et est sponsorisée par
 [[https://www.alphanov.com/produits-services/solutions-laser-test-de-circuits-integres][ALPhANOV]],
