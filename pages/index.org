@@ -64,6 +64,7 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 et est sponsorisée par
 [[https://www.alphanov.com/produits-services/solutions-laser-test-de-circuits-integres][ALPhANOV]],
 [[https://www.ssi.gouv.fr/][ANSSI]],
+Brightsight,
 [[https://www.idemia.com/business/idemia-secure-transactions][IDEMIA]],
 [[https://ptcc.fr][PTCC]].
 
