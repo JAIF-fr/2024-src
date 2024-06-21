@@ -61,17 +61,46 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 
 # #+END_EXPORT
 
-# et est sponsorisée par
-# [[https://www.alphanov.com/][ALPhANOV]],
-# [[https://www.ssi.gouv.fr/][ANSSI]],
-# [[https://www.secure-ic.com/][Secure-IC]],
-# [[https://www.brightsight.com][SGS-Brightsight]],
-# [[https://www.st.com/][STMicroelectronics]],
-# [[https://www.thalesgroup.com][Thales.]]
+et est sponsorisée par
+[[https://www.alphanov.com/produits-services/solutions-laser-test-de-circuits-integres][ALPhANOV]],
+[[https://www.ssi.gouv.fr/][ANSSI]],
+[[https://www.idemia.com/business/idemia-secure-transactions][IDEMIA]],
+[[https://ptcc.fr][PTCC]].
 
-# #+BEGIN_EXPORT html
-# <br></br>
-# <center>
+# IMT,
+# Brightsight,
+# Thales
+
+#+BEGIN_EXPORT html
+<br></br>
+<center>
+
+
+<a href="https://www.alphanov.com/produits-services/solutions-laser-test-de-circuits-integres">
+<img src="./media/Alphanov.png" alt="Logo ALPhANOV" title="ALPhANOV" data-align="center" height="100" /></a>
+
+     
+
+<a href="https://cyber.gouv.fr">
+<img src="./media/ANSSI_Logo.svg" alt="Logo ANSSI" title="ANSSI" data-align="center" height="100" /></a>
+
+
+     
+
+<a href="https://www.idemia.com/business/idemia-secure-transactions">
+<img src="./media/IDEMIA.png" alt="Logo IDEMIA" title="IDEMIA" data-align="center" height="100" /></a>
+
+
+     
+
+<a href="https://ptcc.fr">
+<img src="./media/PTCC.jpg" alt="Logo PTCC" title="PTCC" data-align="center" height="100" /></a>
+
+
+
+</center>
+#+END_EXPORT
+
 # <p>
 # <a href="https://www.thalesgroup.com">
 # <img src="./media/logo-Thales.png" alt="Logo Thales" title="Thales" data-align="center" height="80" /></a>
@@ -80,10 +109,6 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 # <p>
 # <a href="https://www.alphanov.com">
 # <img src="./media/logo-Alphanov.png" alt="Logo Alpanov" title="Alpanov" data-align="center" height="80" /></a>
-
-#      
-# <a href="https://www.ssi.gouv.fr">
-# <img src="./media/logo-ANSSI.png" alt="Logo ANSSI" title="ANSSI" data-align="center" height="100" /></a>
 
 #      
 # <a href="https://www.secure-ic.fr">
@@ -97,8 +122,6 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 # <a href="https://www.st.com">
 # <img src="./media/logo-ST.jpg" alt="Logo ST" title="ST" data-align="center" height="80" /></a>
 # </p>
-# </center>
-# #+END_EXPORT
 
 ** Comité d'organisation
 
