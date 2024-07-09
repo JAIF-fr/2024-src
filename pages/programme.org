@@ -1,5 +1,57 @@
 #+STARTUP: showall
 #+OPTIONS: toc:nil
+#+EXPORT_EXCLUDE_TAGS: noexport
 #+title: JAIF 2024 -- programme
 
 à venir !
+
+
+| 09h00        |                                       | Ouverture de la salle & accueil café                                                                           |
+| 09h30        | Ronan Lashermes                       | Ouverture de la journée & mot d'accueil                                                                        |
+| 09h40        |                                       | *Session 1 -- laser*                                                                                             |
+|              | [[#hugget][Nicolas Hugget]] - présentation invitée | L'injection de fautes comme outil d'investigation numérique                                                    |
+|              | [[#pichon][Laurent Pichon]]                        | Theory of the transient current induced by laser illumination in FD-SOI CMOS inverter responsible of a bitflip |
+|              | Paul Grandamme                        | Éteindre votre composant électronique ne le protège pas !                                                      |
+| 10h45        |                                       | Pause café - [[#posters][session posters]]                                                                                   |
+| 11h30        |                                       | *Session 2 -- approches formelles*                                                                               |
+|              | Yanis Sellami                         | Fault Injection Vulnerability Characterization by Inference of Robust Reachability Constraints                 |
+|              | Simon Tollec                          | Fault-Resistant Partitioning of Secure CPUs for System Co-Verification against Faults                          |
+|              | Sébastien Michelland                  | From low-level fault modeling (of a pipeline attack) to a proven hardening scheme                              |
+| 12h30        |                                       | Déjeuner                                                                                                       |
+| 14h00        |                                       | *Session 3 -- cryptographie*                                                                                     |
+|              | Tiempo - présentation invitée         |                                                                                                                |
+|              | Viet-Sang Nguyen                      | Attacks and Countermeasures in Persistent Fault Model                                                          |
+|              | Adrian Thillard, Thomas Priest        | Attaques par Fautes sur SLH-DSA                                                                                |
+| 15h10        |                                       | Pause café - [[#posters][session posters]]                                                                                   |
+| 15h50        |                                       | *Session 4 -- SoC / IA*                                                                                          |
+|              | Bastien Vuillod                       | Attaques backdoor sur réseaux de neurones: quelle place pour l’injection de fautes ?                           |
+|              | Owen Le Gonidec                       | Évolutions dans la sécurité des modules de gestion de l'énergie                                                |
+|              | Clément Fanjas                        | Injection de faute electromagnétique sur sytem-on-chip en boîte noire                                          |
+| 16h45        | Comité d'organisation                 | Mot de clôture de la journée                                                                                   |
+| 17h00        |                                       | Fin de la journée                                                                                              |
+| 17h30--19h00 |                                       | social event                                                                                                   |
+* statut intégration programme                                     :noexport:
+
+talks
+
+|                 | titre | abstract | bio |
+|-----------------+-------+----------+-----|
+| IRCGN           | X     | X        | X   |
+| Pichon          | X     |          |     |
+| Grandamme       | X     |          |     |
+| Sellami         | X     |          |     |
+| Tollec          | X     |          |     |
+| Michelland      | X     |          |     |
+| Tiempo          |       |          |     |
+| Nguyen          | X     |          |     |
+| Thillard+Priest | X     |          |     |
+| Vuillod         | X     |          |     |
+| Le Gonidec      | X     |          |     |
+| Fanjas          | X     |          |     |
+
+
+posters
+
+|   | titre | abstract | bio |
+|---+-------+----------+-----|
+|   |       |          |     |
