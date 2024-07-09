@@ -76,11 +76,11 @@ et est sponsorisée par
 [[https://www.ssi.gouv.fr/][ANSSI]],
 Brightsight,
 [[https://www.idemia.com/business/idemia-secure-transactions][IDEMIA]],
-[[https://ptcc.fr][PTCC]].
+[[https://ptcc.fr][PTCC]],
+[[https://www.thalesgroup.com/fr/europe/france/dis][Thales DIS Identité et Sécurité Numériques]].
 
 # IMT,
 # Brightsight,
-# Thales
 
 #+BEGIN_EXPORT html
 <br></br>
@@ -88,7 +88,7 @@ Brightsight,
 
 
 <a href="https://www.alphanov.com/produits-services/solutions-laser-test-de-circuits-integres">
-<img src="./media/Alphanov.png" alt="Logo ALPhANOV" title="ALPhANOV" data-align="center" height="100" /></a>
+<img src="./media/Alphanov.png" alt="Logo ALPhANOV" title="ALPhANOV" data-align="center" height="80" /></a>
 
      
 
@@ -107,15 +107,14 @@ Brightsight,
 <a href="https://ptcc.fr">
 <img src="./media/PTCC.jpg" alt="Logo PTCC" title="PTCC" data-align="center" height="100" /></a>
 
+     
 
+<a href="https://www.thalesgroup.com/fr/europe/france/dis">
+<img src="./media/Thales.png" alt="Logo Thales" title="Thales DIS" data-align="center" height="100" /></a>
 
 </center>
 #+END_EXPORT
 
-# <p>
-# <a href="https://www.thalesgroup.com">
-# <img src="./media/logo-Thales.png" alt="Logo Thales" title="Thales" data-align="center" height="80" /></a>
-# </p>
 
 # <p>
 # <a href="https://www.alphanov.com">

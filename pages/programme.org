@@ -3,8 +3,6 @@
 #+EXPORT_EXCLUDE_TAGS: noexport
 #+title: JAIF 2024 -- programme
 
-à venir !
-
 
 | 09h00        |                                       | Ouverture de la salle & accueil café                                                                           |
 | 09h30        | Ronan Lashermes                       | Ouverture de la journée & mot d'accueil                                                                        |
