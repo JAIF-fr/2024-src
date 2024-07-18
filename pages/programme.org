@@ -19,7 +19,7 @@
 | 14h00        |                                       | *Session 3 -- cryptographie*                                                                                     |
 |              | [[#maginot][Serge Maginot]] - présentation invitée  | Scalable security for connected devices                                                                        |
 |              | Viet-Sang Nguyen                      | Attacks and Countermeasures in Persistent Fault Model                                                          |
-|              | Adrian Thillard, Thomas Priest        | Attaques par Fautes sur SLH-DSA                                                                                |
+|              | Adrian Thillard, Thomas Prest         | Attaques par Fautes sur SLH-DSA                                                                                |
 | 15h10        |                                       | Pause café - [[#posters][session posters]]                                                                                   |
 | 15h50        |                                       | *Session 4 -- SoC / IA*                                                                                          |
 |              | Bastien Vuillod                       | Attaques backdoor sur réseaux de neurones: quelle place pour l’injection de fautes ?                           |
@@ -70,13 +70,13 @@ talks
 | Michelland      | X     |          |     |
 | Tiempo          | X     | X        | X   |
 | Nguyen          | X     |          |     |
-| Thillard+Priest | X     |          |     |
 | Vuillod         | X     |          |     |
 | Le Gonidec      | X     |          |     |
 | Fanjas          | X     |          |     |
 
 
 posters
+| Thillard+Prest | X     |          |     |
 
 |   | titre | abstract | bio |
 |---+-------+----------+-----|
