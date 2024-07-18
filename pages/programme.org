@@ -17,7 +17,7 @@
 |              | Sébastien Michelland                  | From low-level fault modeling (of a pipeline attack) to a proven hardening scheme                              |
 | 12h30        |                                       | Déjeuner                                                                                                       |
 | 14h00        |                                       | *Session 3 -- cryptographie*                                                                                     |
-|              | Tiempo - présentation invitée         |                                                                                                                |
+|              | [[#maginot][Serge Maginot]] - présentation invitée  | Scalable security for connected devices                                                                        |
 |              | Viet-Sang Nguyen                      | Attacks and Countermeasures in Persistent Fault Model                                                          |
 |              | Adrian Thillard, Thomas Priest        | Attaques par Fautes sur SLH-DSA                                                                                |
 | 15h10        |                                       | Pause café - [[#posters][session posters]]                                                                                   |
@@ -30,16 +30,18 @@
 | 17h30--19h00 |                                       | social event                                                                                                   |
 ** Présentations invitées
 
-# *** XXX TODO Tiempo
-# :PROPERTIES:
-# :CUSTOM_ID: tiempo
-# :END:
+*** Scalable security for connected devices
+:PROPERTIES:
+:CUSTOM_ID: maginot
+:END:
 
-# *orateur* (affiliation)
+*Serge Maginot* (Tiempo)
 
-# *Résumé*.
+*Résumé*.
+We will explore the different security levels, corresponding certification standards and assurance levels, that are required or likely to be required for connected hardware devices according to the targeted usages, and the difficulties to overcome for their implementation.
 
-# *Bio*.
+*Bio*.
+Serge Maginot has worked for more than 30 years in the semiconductor industry. He graduated from Ecole Polytechnique Paris and Telecom Paris engineering schools and began his career in 1987 as a designer of video processing chips. In 1991, he co-founded a startup named LEDA, which developed Electronic Design Automation (EDA) tools. Serge joined Synopsys Inc. in 2000 in the role of Director of R&D for static verification products. In 2007, he co-founded Tiempo Secure, startup specialized in the design of IP solutions and key secure elements for strategic embedded security systems (IoT, Mobile, Automotive…). Serge is currently the CEO of Tiempo Secure. He is also a board member of the Minalogic digital transformation competitiveness cluster.
 
 *** L'injection de fautes comme outil d'investigation numérique
 :PROPERTIES:
@@ -66,7 +68,7 @@ talks
 | Sellami         | X     |          |     |
 | Tollec          | X     |          |     |
 | Michelland      | X     |          |     |
-| Tiempo          |       |          |     |
+| Tiempo          | X     | X        | X   |
 | Nguyen          | X     |          |     |
 | Thillard+Priest | X     |          |     |
 | Vuillod         | X     |          |     |
