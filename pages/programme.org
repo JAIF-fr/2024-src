@@ -8,7 +8,7 @@
 | 09h30        | Ronan Lashermes                       | Ouverture de la journée & mot d'accueil                                                                        |
 | 09h40        |                                       | *Session 1 -- laser*                                                                                             |
 |              | [[#hugget][Nicolas Hugget]] - présentation invitée | L'injection de fautes comme outil d'investigation numérique                                                    |
-|              | [[#pichon][Laurent Pichon]]                        | Theory of the transient current induced by laser illumination in FD-SOI CMOS inverter responsible of a bitflip |
+|              | Laurent Pichon                        | Theory of the transient current induced by laser illumination in FD-SOI CMOS inverter responsible of a bitflip |
 |              | Paul Grandamme                        | Éteindre votre composant électronique ne le protège pas !                                                      |
 | 10h45        |                                       | Pause café - [[#posters][session posters]]                                                                                   |
 | 11h30        |                                       | *Session 2 -- approches formelles*                                                                               |
