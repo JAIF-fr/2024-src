@@ -7,24 +7,24 @@
 | 09h00        |                                       | Ouverture de la salle & accueil café                                                                           |
 | 09h30        | Ronan Lashermes                       | Ouverture de la journée & mot d'accueil                                                                        |
 | 09h40        |                                       | *Session 1 -- laser*                                                                                             |
-|              | [[#hugget][Nicolas Hugget]] - présentation invitée | L'injection de fautes comme outil d'investigation numérique                                                    |
-|              | [[#pichon][Laurent Pichon]]                        | Theory of the transient current induced by laser illumination in FD-SOI CMOS inverter responsible of a bitflip |
-|              | [[#grandamme][Paul Grandamme]]                        | Éteindre votre composant électronique ne le protège pas !                                                      |
+|              | Nicolas Hugget - présentation invitée | [[#hugget][L'injection de fautes comme outil d'investigation numérique]]                                                    |
+|              | Laurent Pichon                        | [[#pichon][Theory of the transient current induced by laser illumination in FD-SOI CMOS inverter responsible of a bitflip]] |
+|              | Paul Grandamme                        | [[#grandamme][Éteindre votre composant électronique ne le protège pas !]]                                                      |
 | 10h45        |                                       | Pause café - [[#posters][session posters]]                                                                                   |
 | 11h30        |                                       | *Session 2 -- approches formelles*                                                                               |
-|              | [[#sellami][Yanis Sellami]]                         | Fault Injection Vulnerability Characterization by Inference of Robust Reachability Constraints                 |
-|              | [[#tollec][Simon Tollec]]                          | Fault-Resistant Partitioning of Secure CPUs for System Co-Verification against Faults                          |
-|              | [[#michelland][Sébastien Michelland]]                  | From low-level fault modeling (of a pipeline attack) to a proven hardening scheme                              |
+|              | Yanis Sellami                         | [[#sellami][Fault Injection Vulnerability Characterization by Inference of Robust Reachability Constraints]]                 |
+|              | Simon Tollec                          | [[#tollec][Fault-Resistant Partitioning of Secure CPUs for System Co-Verification against Faults]]                          |
+|              | Sébastien Michelland                  | [[#michelland][From low-level fault modeling (of a pipeline attack) to a proven hardening scheme]]                              |
 | 12h30        |                                       | Déjeuner                                                                                                       |
 | 14h00        |                                       | *Session 3 -- cryptographie*                                                                                     |
-|              | [[#maginot][Serge Maginot]] - présentation invitée  | Scalable security for connected devices                                                                        |
-|              | [[#nguyen][Viet-Sang Nguyen]]                      | Attacks and Countermeasures in Persistent Fault Model                                                          |
-|              | [[#pqshield][Adrian Thillard, Thomas Prest]]         | Attaques par Fautes sur SLH-DSA                                                                                |
+|              | Serge Maginot - présentation invitée  | [[#maginot][Scalable security for connected devices]]                                                                        |
+|              | Viet-Sang Nguyen                      | [[#nguyen][Attacks and Countermeasures in Persistent Fault Model]]                                                          |
+|              | Adrian Thillard, Thomas Prest         | [[#pqshield][Attaques par Fautes sur SLH-DSA]]                                                                                |
 | 15h10        |                                       | Pause café - [[#posters][session posters]]                                                                                   |
 | 15h50        |                                       | *Session 4 -- SoC / IA*                                                                                          |
-|              | [[#vuillod][Bastien Vuillod]]                       | Attaques backdoor sur réseaux de neurones: quelle place pour l’injection de fautes ?                           |
-|              | [[#legonidec][Owen Le Gonidec]]                       | Évolutions dans la sécurité des modules de gestion de l'énergie                                                |
-|              | [[#fanjas][Clément Fanjas]]                        | Injection de faute electromagnétique sur sytem-on-chip en boîte noire                                          |
+|              | Bastien Vuillod                       | [[#vuillod][Attaques backdoor sur réseaux de neurones: quelle place pour l’injection de fautes ?               |
+|              | Owen Le Gonidec                       | [[#legonidec][Évolutions dans la sécurité des modules de gestion de l'énergie]]                                |
+|              | Clément Fanjas                        | [[#fanjas][Injection de faute electromagnétique sur sytem-on-chip en boîte noire]]                                          |
 | 16h45        | Comité d'organisation                 | Mot de clôture de la journée                                                                                   |
 | 17h00        |                                       | Fin de la journée                                                                                              |
 | 17h30--19h00 |                                       | social event                                                                                                   |
@@ -373,6 +373,22 @@ Dans cette présentation, nous aborderons la problématique des attaques matéri
 Owen Le Gonidec est un doctorant travaillant sur les attaques basées sur l'exploitation des mécanismes de gestion de l'énergie. Cette thèse est financée par le projet ANR CoPhyTEE (Sécurisation des systèmes sur puce à base d'architecture open source contre des attaques physiques réalisées à distances) et est encadrée par Maria Mendéz Real (IETR), Jean-Christophe Prévotet (IETR) et Guillaume Bouffard (ANSSI).
 
 ** Posters
+:PROPERTIES:
+:CUSTOM_ID: posters
+:END:
+
+
+| Aghiles Douadi   | [[#douadi][Modeling Thermal Effects For Biasing PUFs]]                                                                                    |
+| Sami El Amraoui  | [[#elamraoui][Control of Ring Oscillators EMFI Susceptibilty through FPGA P&R Constraints]]                                                  |
+| Paul Grandamme   | [[#grandamme][Éteindre votre composant électronique ne le protège pas !]]                                                                    |
+| Adam Henault     | [[#henault][LiteInjector : A fault emulator framework for LiteX System on Chip]]                                                           |
+| Le Brizoual      | [[#brizoual][Simulation TCAD 2D d’injection de faute laser au sein de composant unitaire]]                                                  |
+| Ovew Le Gonidec  | [[#legonidec][Évolutions dans la sécurité des modules de gestion de l'énergie]]                                                              |
+| Viet Sang Nguyen | [[#nguyen][Attacks and Countermeasures in Persistent Fault Model]]                                                                        |
+| William Pensec   | [[#pensec][Implementation and evaluation of countermeasures in a DIFT mechanism against Fault Injection Attacks]]                         |
+| Kévin Quénéhervé | [[#queneherve][Impact of fault injections on the PMP configuration flow within a CVA6 core]]                                                  |
+| Idris Raïs-Ali   | [[#raisali][Calibration post-silicium de capteurs de detection d’injection de fautes]]                                                     |
+| Daniel Thirion   | [[#thirion][FPGA Fault Injection Platform: une plateforme moderne et rapide d'injection de fautes sur FPGA par reconfiguration partielle]] |
 
 *** LiteInjector : A fault emulator framework for LiteX System on Chip
 :PROPERTIES:
@@ -426,7 +442,7 @@ sein de cette même équipe de recherche.
 
 *** Impact of fault injections on the PMP configuration flow within a CVA6 core
 :PROPERTIES:
-:CUSTOM_ID: qheneherve
+:CUSTOM_ID: queneherve
 :END:
 
 *Kévin Quénéhervé*
@@ -467,6 +483,9 @@ physiques. Il est dirigé par Vianney Lapôtre et encadré par
 Philippe Tanguy et Rachid Dafali.
 
 *** Modeling Thermal Effects For Biasing PUFs
+:PROPERTIES:
+:CUSTOM_ID: douadi
+:END:
 
 *Aghiles Douadi*
 (TIMA / LCIS, UGA),
@@ -488,6 +507,10 @@ Les primitives de sécurité, telles que les fonctions physiques non clonables (
 Aghiles Douadi, doctorant en deuxième année à TIMA à Grenoble et au LCIS à Valence, je mène des recherches sur les attaques laser sur des primitives de sécurité de type PUF dans le cadre du projet ANR POP. J'ai obtenu mon diplôme en traitement du signal et de l'image à l'Univ. de Bourgogne à Dijon en 2022.
 
 *** FPGA Fault Injection Platform: une plateforme moderne et rapide d'injection de fautes sur FPGA par reconfiguration partielle
+:PROPERTIES:
+:CUSTOM_ID: thirion
+:END:
+
 
 *Daniel Thirion*
 (STMicroelectronics, LCIS UGA),
@@ -510,6 +533,9 @@ Daniel THIRION est un doctorant au laboratoire UGA/Grenoble-INP LCIS, Valence, p
 Initialement designer matériel, intégrateur SoC, il a été tourné vers la sûreté fonctionnelle dans son équipe à ST, puis vers la sécurité matériel par ses études doctorales avec le LCIS.
 
 *** Control of Ring Oscillators EMFI Susceptibilty through FPGA P&R Constraints
+:PROPERTIES:
+:CUSTOM_ID: elamraoui
+:END:
 
 *Sami El Amraoui*
 (TIMA UGA),
@@ -525,6 +551,9 @@ Ring Oscillators (ROs) are widely used in various electronic systems, contributi
 Sami EL AMRAOUI is a 3rd year PhD student at TIMA laboratory in the AMfoRS team (Grenoble). His research focuses on fault attacks on digital circuits with a major interest in the modeling and the protection against Electromagnetic pulsed fault injection.
 
 *** Simulation TCAD 2D d’injection de faute laser au sein de composant unitaire
+:PROPERTIES:
+:CUSTOM_ID: brizoual
+:END:
 
 *L. Le Brizoual*
 (Univ. Rennes, CNRS, IETR),
@@ -579,6 +608,9 @@ for sensors and thin film deposition. He currently works in the Cybersecurity pl
 laser faults injection and modelisation of laser effects on devices.
 
 *** Calibration post-silicium de capteurs de detection d’injection de fautes
+:PROPERTIES:
+:CUSTOM_ID: raisali
+:END:
 
 *Idris Raïs-Ali*
 (SecureIC, LIRMM)
@@ -624,6 +656,9 @@ Plus particulièrement, je suis membre de l'équipe d'évaluation de sécurité 
 Mes travaux portent sur l'études de contre-mesures et plus particulièrement des capteurs de détection de perturbation, appelés Digital Sensors.
 
 *** Implementation and evaluation of countermeasures in a DIFT mechanism against Fault Injection Attacks
+:PROPERTIES:
+:CUSTOM_ID: pensec
+:END:
 
 *William Pensec*
 (Univ. Bretagne Sud, Lab-STICC),
