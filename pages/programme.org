@@ -22,7 +22,7 @@
 |              | Adrian Thillard, Thomas Prest         | [[#pqshield][Attaques par Fautes sur SLH-DSA]]                                                                                |
 | 15h10        |                                       | Pause café - [[#posters][session posters]]                                                                                   |
 | 15h50        |                                       | *Session 4 -- SoC / IA*                                                                                          |
-|              | Bastien Vuillod                       | [[#vuillod][Attaques backdoor sur réseaux de neurones: quelle place pour l’injection de fautes ?               |
+|              | Bastien Vuillod                       | [[#vuillod][Attaques backdoor sur réseaux de neurones: quelle place pour l’injection de fautes ?]]                           |
 |              | Owen Le Gonidec                       | [[#legonidec][Évolutions dans la sécurité des modules de gestion de l'énergie]]                                |
 |              | Clément Fanjas                        | [[#fanjas][Injection de faute electromagnétique sur sytem-on-chip en boîte noire]]                                          |
 | 16h45        | Comité d'organisation                 | Mot de clôture de la journée                                                                                   |
