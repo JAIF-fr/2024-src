@@ -4,30 +4,30 @@
 #+EXPORT_EXCLUDE_TAGS: noexport
 #+title: JAIF 2024 -- programme
 
-| 09h00        |                                       | Ouverture de la salle & accueil café                                                                           |
-| 09h30        | Ronan Lashermes                       | Ouverture de la journée & mot d'accueil                                                                        |
-| 09h40        |                                       | *Session 1 -- laser*                                                                                             |
-|              | Nicolas Hugget - présentation invitée | [[#hugget][L'injection de fautes comme outil d'investigation numérique]]                                                    |
-|              | Laurent Pichon                        | [[#pichon][Theory of the transient current induced by laser illumination in FD-SOI CMOS inverter responsible of a bitflip]] |
-|              | Paul Grandamme                        | [[#grandamme][Éteindre votre composant électronique ne le protège pas !]]                                                      |
-| 10h45        |                                       | Pause café - [[#posters][session posters]]                                                                                   |
-| 11h30        |                                       | *Session 2 -- approches formelles*                                                                               |
-|              | Yanis Sellami                         | [[#sellami][Fault Injection Vulnerability Characterization by Inference of Robust Reachability Constraints]]                 |
-|              | Simon Tollec                          | [[#tollec][Fault-Resistant Partitioning of Secure CPUs for System Co-Verification against Faults]]                          |
-|              | Sébastien Michelland                  | [[#michelland][From low-level fault modeling (of a pipeline attack) to a proven hardening scheme]]                              |
-| 12h30        |                                       | Déjeuner                                                                                                       |
-| 14h00        |                                       | *Session 3 -- cryptographie*                                                                                     |
-|              | Serge Maginot - présentation invitée  | [[#maginot][Scalable security for connected devices]]                                                                        |
-|              | Viet-Sang Nguyen                      | [[#nguyen][Attacks and Countermeasures in Persistent Fault Model]]                                                          |
-|              | Adrian Thillard, Thomas Prest         | [[#pqshield][Attaques par Fautes sur SLH-DSA]]                                                                                |
-| 15h10        |                                       | Pause café - [[#posters][session posters]]                                                                                   |
-| 15h50        |                                       | *Session 4 -- SoC / IA*                                                                                          |
-|              | Bastien Vuillod                       | [[#vuillod][Attaques backdoor sur réseaux de neurones: quelle place pour l’injection de fautes ?]]                           |
-|              | Owen Le Gonidec                       | [[#legonidec][Évolutions dans la sécurité des modules de gestion de l'énergie]]                                |
-|              | Clément Fanjas                        | [[#fanjas][Injection de faute electromagnétique sur sytem-on-chip en boîte noire]]                                          |
-| 16h45        | Comité d'organisation                 | Mot de clôture de la journée                                                                                   |
-| 17h00        |                                       | Fin de la journée                                                                                              |
-| 17h30--19h00 |                                       | social event                                                                                                   |
+| 09h00  |                                       | Ouverture de la salle & accueil café                                                                           |
+| 09h30  | Ronan Lashermes                       | Ouverture de la journée & mot d'accueil                                                                        |
+| 09h40  |                                       | *Session 1 -- laser*                                                                                             |
+|        | Nicolas Hugget - présentation invitée | [[#hugget][L'injection de fautes comme outil d'investigation numérique]]                                                    |
+|        | Laurent Pichon                        | [[#pichon][Theory of the transient current induced by laser illumination in FD-SOI CMOS inverter responsible of a bitflip]] |
+|        | Paul Grandamme                        | [[#grandamme][Éteindre votre composant électronique ne le protège pas !]]                                                      |
+| 10h45  |                                       | Pause café - [[#posters][session posters]]                                                                                   |
+| 11h30  |                                       | *Session 2 -- approches formelles*                                                                               |
+|        | Yanis Sellami                         | [[#sellami][Fault Injection Vulnerability Characterization by Inference of Robust Reachability Constraints]]                 |
+|        | Simon Tollec                          | [[#tollec][Fault-Resistant Partitioning of Secure CPUs for System Co-Verification against Faults]]                          |
+|        | Sébastien Michelland                  | [[#michelland][From low-level fault modeling (of a pipeline attack) to a proven hardening scheme]]                              |
+| 12h30  |                                       | Déjeuner                                                                                                       |
+| 14h00  |                                       | *Session 3 -- cryptographie*                                                                                     |
+|        | Serge Maginot - présentation invitée  | [[#maginot][Scalable security for connected devices]]                                                                        |
+|        | Viet-Sang Nguyen                      | [[#nguyen][Attacks and Countermeasures in Persistent Fault Model]]                                                          |
+|        | Adrian Thillard, Thomas Prest         | [[#pqshield][Attaques par Fautes sur SLH-DSA]]                                                                                |
+| 15h10  |                                       | Pause café - [[#posters][session posters]]                                                                                   |
+| 15h50  |                                       | *Session 4 -- SoC / IA*                                                                                          |
+|        | Bastien Vuillod                       | [[#vuillod][Attaques backdoor sur réseaux de neurones: quelle place pour l’injection de fautes ?]]                           |
+|        | Owen Le Gonidec                       | [[#legonidec][Évolutions dans la sécurité des modules de gestion de l'énergie]]                                                |
+|        | Clément Fanjas                        | [[#fanjas][Injection de faute electromagnétique sur sytem-on-chip en boîte noire]]                                          |
+| 16h45  | Comité d'organisation                 | Mot de clôture de la journée                                                                                   |
+| 17h00  |                                       | Fin de la journée                                                                                              |
+| 18h00… |                                       | [[./infos-pratiques.html#social-event][social event]]                                                                                                   |
 
 ** Présentations invitées
 
