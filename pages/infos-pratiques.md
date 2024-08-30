@@ -38,3 +38,5 @@ Nombreux parkings sur le campus.
 
 Le Social Event aura lieu à l'[Hôtel Dieu](https://rennes-hotel-dieu.com/) dans le centre-ville, 2 rue de l'Hôtel Dieu, 35000 Rennes. Arrêt Saint-Anne des Métros A et B.
 
+Un apéritif vous attendra, ainsi qu'une séance d'escalade pour les volontaires inscrits. Une paire de chausson est fournie.
+
