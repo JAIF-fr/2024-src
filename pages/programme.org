@@ -354,7 +354,7 @@ Clément est diplômé de l'IUT de Génie Electrique et Informatique Industriell
 *Owen Le Gonidec*
 (IETR),
 *Maria Méndez Real*
-(IETR),
+(Lab-STICC),
 *Guillaume Bouffard*
 (ANSSI),
 *Jean-Christophe Prévotet*
@@ -370,7 +370,7 @@ Des contre-mesures à ces attaques ont été mises en œuvre dans les principaux
 Dans cette présentation, nous aborderons la problématique des attaques matérielles par injection de fautes qui exploitent les modules de gestion de l'énergie depuis le logiciel. Nous décrirons l'importance de ces attaques, les contre-mesures existantes et les nouvelles solutions potentielles, avec un focus sur les nouvelles implémentations de TEEs sur processeurs utilisant RISC-V.
 
 *Bio*.
-Owen (Gwenn) Le Gonidec est une doctorante travaillant sur les attaques basées sur l’exploitation des mécanismes de gestion de l’énergie. Cette thèse est financée par le projet ANR CoPhyTEE (Sécurisation des systèmes sur puce à base d’architecture open source contre des attaques physiques réalisées à distances) et est encadrée par Maria Mendéz Real (IETR), Jean-Christophe Prévotet (IETR) et Guillaume Bouffard (ANSSI).
+Owen (Gwenn) Le Gonidec est une doctorante travaillant sur les attaques basées sur l’exploitation des mécanismes de gestion de l’énergie. Cette thèse est financée par le projet ANR CoPhyTEE (Sécurisation des systèmes sur puce à base d’architecture open source contre des attaques physiques réalisées à distances) et est encadrée par Maria Mendéz Real (Lab-STICC), Jean-Christophe Prévotet (IETR) et Guillaume Bouffard (ANSSI).
 
 ** Posters
 :PROPERTIES:
