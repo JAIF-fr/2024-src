@@ -490,7 +490,7 @@ Philippe Tanguy et Rachid Dafali.
 *Aghiles Douadi*
 (TIMA / LCIS, UGA),
 *Elena-Ioana Vatajelu*
-(TIMA / LCIS, UGA),
+(TIMA, UGA),
 *Paolo Maistri*
 (TIMA, UGA),
 *David Hely*
