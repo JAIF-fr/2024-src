@@ -388,6 +388,7 @@ Owen (Gwenn) Le Gonidec est une doctorante travaillant sur les attaques basées 
 | William Pensec   | [[#pensec][Implementation and evaluation of countermeasures in a DIFT mechanism against Fault Injection Attacks]]                         |
 | Kévin Quénéhervé | [[#queneherve][Impact of fault injections on the PMP configuration flow within a CVA6 core]]                                                  |
 | Idris Raïs-Ali   | [[#raisali][Calibration post-silicium de capteurs de detection d’injection de fautes]]                                                     |
+| Simon Tollec     | [[#tollec][Fault-Resistant Partitioning of Secure CPUs for System Co-Verification against Faults]]                                        |
 | Daniel Thirion   | [[#thirion][FPGA Fault Injection Platform: une plateforme moderne et rapide d'injection de fautes sur FPGA par reconfiguration partielle]] |
 
 *** LiteInjector : A fault emulator framework for LiteX System on Chip
