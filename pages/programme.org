@@ -23,7 +23,7 @@
 | 15h10  |                                       | Pause café - [[#posters][session posters]]                                                                                   |
 | 15h50  |                                       | *Session 4 -- SoC / IA*                                                                                          |
 |        | Bastien Vuillod                       | [[#vuillod][Attaques backdoor sur réseaux de neurones: quelle place pour l’injection de fautes ?]]                           |
-|        | Owen Le Gonidec                       | [[#legonidec][Évolutions dans la sécurité des modules de gestion de l'énergie]]                                                |
+|        | Gwenn Le Gonidec                  | [[#legonidec][Évolutions dans la sécurité des modules de gestion de l'énergie]]                                                |
 |        | Clément Fanjas                        | [[#fanjas][Injection de faute electromagnétique sur sytem-on-chip en boîte noire]]                                          |
 | 16h45  | Comité d'organisation                 | Mot de clôture de la journée                                                                                   |
 | 17h00  |                                       | Fin de la journée                                                                                              |
@@ -351,7 +351,7 @@ Clément est diplômé de l'IUT de Génie Electrique et Informatique Industriell
 :CUSTOM_ID: legonidec
 :END:
 
-*Owen Le Gonidec*
+*Gwenn Le Gonidec*
 (IETR),
 *Maria Méndez Real*
 (Lab-STICC),
@@ -370,7 +370,7 @@ Des contre-mesures à ces attaques ont été mises en œuvre dans les principaux
 Dans cette présentation, nous aborderons la problématique des attaques matérielles par injection de fautes qui exploitent les modules de gestion de l'énergie depuis le logiciel. Nous décrirons l'importance de ces attaques, les contre-mesures existantes et les nouvelles solutions potentielles, avec un focus sur les nouvelles implémentations de TEEs sur processeurs utilisant RISC-V.
 
 *Bio*.
-Owen (Gwenn) Le Gonidec est une doctorante travaillant sur les attaques basées sur l’exploitation des mécanismes de gestion de l’énergie. Cette thèse est financée par le projet ANR CoPhyTEE (Sécurisation des systèmes sur puce à base d’architecture open source contre des attaques physiques réalisées à distances) et est encadrée par Maria Mendéz Real (Lab-STICC), Jean-Christophe Prévotet (IETR) et Guillaume Bouffard (ANSSI).
+Gwenn Le Gonidec est une doctorante travaillant sur les attaques basées sur l’exploitation des mécanismes de gestion de l’énergie. Cette thèse est financée par le projet ANR CoPhyTEE (Sécurisation des systèmes sur puce à base d’architecture open source contre des attaques physiques réalisées à distances) et est encadrée par Maria Mendéz Real (Lab-STICC), Jean-Christophe Prévotet (IETR) et Guillaume Bouffard (ANSSI).
 
 ** Posters
 :PROPERTIES:
@@ -383,7 +383,7 @@ Owen (Gwenn) Le Gonidec est une doctorante travaillant sur les attaques basées 
 | Paul Grandamme   | [[#grandamme][Éteindre votre composant électronique ne le protège pas !]]                                                                    |
 | Adam Henault     | [[#henault][LiteInjector : A fault emulator framework for LiteX System on Chip]]                                                           |
 | Le Brizoual      | [[#brizoual][Simulation TCAD 2D d’injection de faute laser au sein de composant unitaire]]                                                  |
-| Ovew Le Gonidec  | [[#legonidec][Évolutions dans la sécurité des modules de gestion de l'énergie]]                                                              |
+| Gwenn Le Gonidec | [[#legonidec][Évolutions dans la sécurité des modules de gestion de l'énergie]]                                                              |
 | Viet Sang Nguyen | [[#nguyen][Attacks and Countermeasures in Persistent Fault Model]]                                                                        |
 | William Pensec   | [[#pensec][Implementation and evaluation of countermeasures in a DIFT mechanism against Fault Injection Attacks]]                         |
 | Kévin Quénéhervé | [[#queneherve][Impact of fault injections on the PMP configuration flow within a CVA6 core]]                                                  |
