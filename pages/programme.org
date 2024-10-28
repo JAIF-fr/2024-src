@@ -4,30 +4,30 @@
 #+EXPORT_EXCLUDE_TAGS: noexport
 #+title: JAIF 2024 -- programme
 
-| 09h00  |                                       | Ouverture de la salle & accueil café                                                                           |
-| 09h30  | Ronan Lashermes                       | Ouverture de la journée & mot d'accueil                                                                        |
-| 09h40  |                                       | *Session 1 -- laser*                                                                                             |
-|        | Nicolas Hugget - présentation invitée | [[#hugget][L'injection de fautes comme outil d'investigation numérique]]                                                    |
-|        | Laurent Pichon                        | [[#pichon][Theory of the transient current induced by laser illumination in FD-SOI CMOS inverter responsible of a bitflip]] |
-|        | Paul Grandamme                        | [[#grandamme][Éteindre votre composant électronique ne le protège pas !]]                                                      |
-| 10h45  |                                       | Pause café - [[#posters][session posters]]                                                                                   |
-| 11h30  |                                       | *Session 2 -- approches formelles*                                                                               |
-|        | Yanis Sellami                         | [[#sellami][Fault Injection Vulnerability Characterization by Inference of Robust Reachability Constraints]]                 |
-|        | Simon Tollec                          | [[#tollec][Fault-Resistant Partitioning of Secure CPUs for System Co-Verification against Faults]]                          |
-|        | Sébastien Michelland                  | [[#michelland][From low-level fault modeling (of a pipeline attack) to a proven hardening scheme]]                              |
-| 12h30  |                                       | Déjeuner                                                                                                       |
-| 14h00  |                                       | *Session 3 -- cryptographie*                                                                                     |
-|        | Serge Maginot - présentation invitée  | [[#maginot][Scalable security for connected devices]]                                                                        |
-|        | Viet-Sang Nguyen                      | [[#nguyen][Attacks and Countermeasures in Persistent Fault Model]]                                                          |
-|        | Adrian Thillard, Thomas Prest         | [[#pqshield][Attaques par Fautes sur SLH-DSA]]                                                                                |
-| 15h10  |                                       | Pause café - [[#posters][session posters]]                                                                                   |
-| 15h50  |                                       | *Session 4 -- SoC / IA*                                                                                          |
-|        | Bastien Vuillod                       | [[#vuillod][Attaques backdoor sur réseaux de neurones: quelle place pour l’injection de fautes ?]]                           |
-|        | Gwenn Le Gonidec                  | [[#legonidec][Évolutions dans la sécurité des modules de gestion de l'énergie]]                                                |
-|        | Clément Fanjas                        | [[#fanjas][Injection de faute electromagnétique sur sytem-on-chip en boîte noire]]                                          |
-| 16h45  | Comité d'organisation                 | Mot de clôture de la journée                                                                                   |
-| 17h00  |                                       | Fin de la journée                                                                                              |
-| 18h00… |                                       | [[./infos-pratiques.html#social-event][social event]]                                                                                                   |
+| 09h00  |                                       | Ouverture de la salle & accueil café                                                                           |        |
+| 09h30  | Ronan Lashermes                       | Ouverture de la journée & mot d'accueil                                                                        |        |
+| 09h40  |                                       | *Session 1 -- laser*                                                                                             |        |
+|        | Nicolas Hugget - présentation invitée | [[#hugget][L'injection de fautes comme outil d'investigation numérique]]                                                    | [[file:media/JAIF2024-Hugget.pdf][slides]] |
+|        | Laurent Pichon                        | [[#pichon][Theory of the transient current induced by laser illumination in FD-SOI CMOS inverter responsible of a bitflip]] | [[file:media/JAIF2024-Pichon.pdf][slides]] |
+|        | Paul Grandamme                        | [[#grandamme][Éteindre votre composant électronique ne le protège pas !]]                                                      | [[file:media/JAIF2024-Grandamme.pdf][slides]] |
+| 10h45  |                                       | Pause café - [[#posters][session posters]]                                                                                   |        |
+| 11h30  |                                       | *Session 2 -- approches formelles*                                                                               |        |
+|        | Yanis Sellami                         | [[#sellami][Fault Injection Vulnerability Characterization by Inference of Robust Reachability Constraints]]                 | [[file:media/JAIF2024-Sellami.pdf][slides]] |
+|        | Simon Tollec                          | [[#tollec][Fault-Resistant Partitioning of Secure CPUs for System Co-Verification against Faults]]                          | [[file:media/JAIF2024-Tollec.pdf][slides]] |
+|        | Sébastien Michelland                  | [[#michelland][From low-level fault modeling (of a pipeline attack) to a proven hardening scheme]]                              | [[file:media/JAIF2024-Michelland.pdf][slides]] |
+| 12h30  |                                       | Déjeuner                                                                                                       |        |
+| 14h00  |                                       | *Session 3 -- cryptographie*                                                                                     |        |
+|        | Serge Maginot - présentation invitée  | [[#maginot][Scalable security for connected devices]]                                                                        | [[file:media/JAIF2024-Maginot.pdf][slides]] |
+|        | Viet-Sang Nguyen                      | [[#nguyen][Attacks and Countermeasures in Persistent Fault Model]]                                                          | [[file:media/JAIF2024-Nguyen.pdf][slides]] |
+|        | Adrian Thillard, Thomas Prest         | [[#pqshield][Attaques par Fautes sur SLH-DSA]]                                                                                | [[file:media/JAIF2024-PriestThillard.pdf][slides]] |
+| 15h10  |                                       | Pause café - [[#posters][session posters]]                                                                                   |        |
+| 15h50  |                                       | *Session 4 -- SoC / IA*                                                                                          |        |
+|        | Bastien Vuillod                       | [[#vuillod][Attaques backdoor sur réseaux de neurones: quelle place pour l’injection de fautes ?]]                           | [[file:media/JAIF2024-Vuillod.pdf][slides]] |
+|        | Gwenn Le Gonidec                      | [[#legonidec][Évolutions dans la sécurité des modules de gestion de l'énergie]]                                                | [[file:media/JAIF2024-LeGonidec.pdf][slides]] |
+|        | Clément Fanjas                        | [[#fanjas][Injection de faute electromagnétique sur sytem-on-chip en boîte noire]]                                          | [[file:media/JAIF2024-Fanjas.pdf][slides]] |
+| 16h45  | Comité d'organisation                 | Mot de clôture de la journée                                                                                   |        |
+| 17h00  |                                       | Fin de la journée                                                                                              |        |
+| 18h00… |                                       | [[./infos-pratiques.html#social-event][social event]]                                                                                                   |        |
 
 ** Présentations invitées
 
