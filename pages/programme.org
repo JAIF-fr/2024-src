@@ -8,7 +8,7 @@
 | 09h30  | Ronan Lashermes                       | Ouverture de la journée & mot d'accueil                                                                        |        |
 | 09h40  |                                       | *Session 1 -- laser*                                                                                             |        |
 |        | Nicolas Hugget - présentation invitée | [[#hugget][L'injection de fautes comme outil d'investigation numérique]]                                                    | [[file:media/JAIF2024-Hugget.pdf][slides]] |
-|        | Laurent Pichon                        | [[#pichon][Theory of the transient current induced by laser illumination in FD-SOI CMOS inverter responsible of a bitflip]] | [[file:media/JAIF2024-Pichon.pdf][slides]] |
+|        | Laurent Pichon                        | [[#pichon][Theory of the transient current induced by laser illumination in FD-SOI CMOS inverter responsible of a bitflip]] |        |
 |        | Paul Grandamme                        | [[#grandamme][Éteindre votre composant électronique ne le protège pas !]]                                                      | [[file:media/JAIF2024-Grandamme.pdf][slides]] |
 | 10h45  |                                       | Pause café - [[#posters][session posters]]                                                                                   |        |
 | 11h30  |                                       | *Session 2 -- approches formelles*                                                                               |        |
